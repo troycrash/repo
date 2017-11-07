@@ -1,3 +1,5 @@
+{
+"posts":[
 {"comments": [
                {
                "comment" : "test 1",
@@ -9,17 +11,6 @@
                "date"    : "date 2",
                "user"    : "user 2"
                }
-             ],
- "messages": [
-               {
-               "comment" : "test 1",
-               "date"    : "dat 1",
-               "user"    : "user1"
-               },
-               {
-               "comment" : "test 2",
-               "date"    : "date 2",
-               "user"    : "user 2"
-               }
-			 ]
+             ]
+ ]
 }
